@@ -1,9 +1,9 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://gentokozuma.github.io
-title: Welcome!
+url: http://gentokozuma.github.io/newspalette
+title: newspalette
 author: Gento Kozuma
-description: and check out my blogs
+description: news tidbits and terrible drawings
 paginate: 5
 google_analystics:
