@@ -1,7 +1,7 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://gentokozuma.github.io/newspalette
+url: http://gentokozuma.github.io
 baseurl: /newspalette
 title: newspalette
 author: Gento Kozuma
