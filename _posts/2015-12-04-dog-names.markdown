@@ -1,22 +1,22 @@
 ---
-title: Fun Topic: Dog Names 2015
+title: Fun Topic Fridays - Dog Names 2015
 layout: post
 ---
 <img src="{{ site.url }}/images/2015-12-04-image.png" alt="Drawing" style="width: 350px;"/>
 
 Dog parents are naming their dogs human names.
 Top Male Dog
-1. Max*
-2. Charlie*
-3. Buddy
-4. Cooper*
-5. Jack*
+- 1. Max\*
+- 2. Charlie\*
+- 3. Buddy
+- 4. Cooper\*
+- 5. Jack\*
 Top Female Dog Names
-1. Bella*
-2. Lucy*
-3. Daisy
-4. Molly
-5. Lola
+- 1. Bella\*
+- 2. Lucy\*
+- 3. Daisy
+- 4. Molly
+- 5. Lola
 \*Top 100 baby names by gender
 
 Source: Kate Bratskeir [http://www.huffingtonpost.com/entry/top-dog-names-2015_565e0d02e4b072e9d1c3b4b0]( http://www.huffingtonpost.com/entry/top-dog-names-2015_565e0d02e4b072e9d1c3b4b0)
