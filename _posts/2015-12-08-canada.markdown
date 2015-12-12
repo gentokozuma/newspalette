@@ -1,0 +1,11 @@
+---
+title: Canada's Unified New Typeface
+layout: post
+---
+<img src="{{ site.url }}/images/2015-12-08-image.png" alt="Drawing" style="width: 350px;"/>
+
+Canada 150 is the new typographic that unites the Latin characters of English and French with the syllabic characters of the indigenous dialects. Canada 150 was created by Raymond Larabie and is considered the semi-official typeface of Canada. They have had other semi-offical typefaces such as Carl Dair's Cartier (1967), which was made digital friendly by Rod McDondald.
+
+Check out the typeface at the source:
+
+Source: Liz Stinson [http://www.wired.com/2015/12/canadas-new-typeface-unifies-the-countrys-many-languages/]( http://www.wired.com/2015/12/canadas-new-typeface-unifies-the-countrys-many-languages/)

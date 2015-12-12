@@ -1,0 +1,10 @@
+---
+title: ESSA
+layout: post
+---
+<img src="{{ site.url }}/images/2015-12-11-image.png" alt="Drawing" style="width: 350px;"/>
+Image Caption: About time
+
+Every Student Succeeds Act (ESSA) was passed with bi-partician support. ESSA keeps basic testing requirements of No Child Left Behind, however takes away the high stakes attached to student scores. Evaluating schools will now be done at state level and states are no longer required to evaluate teachers by student scores. The bill also expands access to high quality pre-school.
+
+Source: Cory Turner [http://www.npr.org/sections/thetwo-way/2015/12/10/459219774/president-obama-signs-education-law-leaving-no-child-behind]( http://www.npr.org/sections/thetwo-way/2015/12/10/459219774/president-obama-signs-education-law-leaving-no-child-behind)

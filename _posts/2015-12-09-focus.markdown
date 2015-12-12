@@ -1,0 +1,9 @@
+---
+title: Attention IQ
+layout: post
+---
+<img src="{{ site.url }}/images/2015-12-09-image.png" alt="Drawing" style="width: 350px;"/>
+
+There is perhaps a new measure of a person's ability to focus in the form of "attention IQ." Scientists can measure the pattern of brain connectivity via MRI and correlate that towards people with and without attention disorders.
+
+Source: Monica Rosenberg [http://qz.com/559622/scientists-have-found-a-way-to-score-your-attention-iq/]( http://qz.com/559622/scientists-have-found-a-way-to-score-your-attention-iq/)
