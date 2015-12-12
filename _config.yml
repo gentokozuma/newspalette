@@ -3,8 +3,8 @@ pygments: true
 markdown: kramdown
 url: http://gentokozuma.github.io
 baseurl: /newspalette
-title: newspalette
+title: Welcome to
 author: Gento Kozuma
-description: news tidbits and terrible drawings
+description: newspalette - news tidbits and terrible drawings
 paginate: 5
 google_analystics:
