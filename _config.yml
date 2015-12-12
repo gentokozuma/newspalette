@@ -7,4 +7,5 @@ title: newspalette
 author: Gento Kozuma
 description: news tidbits and terrible drawings
 paginate: 5
+paginate_path: "/newspalette/page:num/"
 google_analystics:
