@@ -15,3 +15,5 @@ My Take: In a business of uncertainty, having a better mechanism of predicting c
 Source: https://bol.bna.com/data-analytics-gaining-ground-but-bold-promises-need-validation/
 Original Author: Chris Marr
 Publication: Bloomberg BNA
+
+Originally appeared on Sept. 6, 2015 http://newspalette.tumblr.com/post/128490610000/lawyers-file-litigation-claims-that-are-worth.
