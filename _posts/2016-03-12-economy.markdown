@@ -2,14 +2,20 @@
 title: Our Economy Without Undocumented Workers
 layout: post
 ---
-<img src="{{ site.url }}/images/2015-09-21-image.png" alt="Drawing" style="width: 350px;"/>
+<img src="{{ site.url }}/images/2015-09-29-image.png" alt="Drawing" style="width: 350px;"/>
 
 If all undocumented workers left:
+
 1. Supply of workers will shrink. They account for 5.1 percent of the nation’s labor force 2012. Currently, there are 8.3 million people unemployed. Since much of it is frictional unemployment, there are not enough people to fill the void.
+
 2. The service and farming industry would take a hit. There is a disproportionate amount of undocumented immigrants in the field when compared to native workers.
+
 3. Some native born workers may see a drop in wage. Some native born workers will have to fill in for cheaper labor instead of the administrative jobs.
+
 4. Social Security Fund loses 13 billion dollars in payroll taxes (if calculated at 2010 level). Their benefits are 1 billion so that nets negative 12 million dollars.
+
 The article: [http://www.bloomberg.com/news/articles/2015-08-18/here-s-what-the-u-s-economy-would-look-like-if-trump-deported-undocumented-immigrants](http://www.bloomberg.com/news/articles/2015-08-18/here-s-what-the-u-s-economy-would-look-like-if-trump-deported-undocumented-immigrants)
+
 The authors: Jeanna Smialek, Brendan Case
 
 Originally appeared on Sept. 29, 2015
