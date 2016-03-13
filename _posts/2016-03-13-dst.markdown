@@ -1,0 +1,20 @@
+---
+title: Benefits of Daylight Saving Time
+layout: post
+---
+<img src="{{ site.url }}/images/2015-11-07-image.png" alt="Drawing" style="width: 350px;"/>
+
+Daylight saving times is great. In 2007, Congress added four more weeks of daylight saving times. (Three weeks in the spring, one week in fall.) When DST starts, robbery rates fell 7 percent for the whole day (27 percent during the extra hour of sunlight in the evening). This phenomenon can be explained by street crime trends. Street crime occurs most frequently during commute hours from 5 to 8 pm; criminals do not do much activity in the extra one hour of darkness in the morning.
+
+It is estimated that the cost criminals cause is $42,000 for each crime. The cost includes direct economic losses suffered by the victim, medical costs and lost earnings due to injury, increased police protection, legal services and incarceration costs, indirect psychological and secondary injury. In the Spring of 2007, the three week DST decreased costs by an estimated $246 million according to Doleac and Sanders, which includes the cost of a rape ($240,000). Doleac and Sanders has suggested that by implementing an all-year daylight saving time, United States could save 20 times as much in savings.
+
+Additionally, changing the clock could see a reduction in traffic accidents and spending more time outside, promoting a healthy environment for exercise.
+
+Source: [http://www.washingtonpost.com/news/wonkblog/wp/2015/10/29/the-case-for-year-round-daylight-saving-time-just-got-billions-of-dollars-stronger/](http://www.washingtonpost.com/news/wonkblog/wp/2015/10/29/the-case-for-year-round-daylight-saving-time-just-got-billions-of-dollars-stronger/)
+
+Source Author: Christopher Ingraham
+
+Summary and Image by: Gento Kozuma
+
+Originally appeared on November 11, 2015 in Newspalette Tumblr:
+[http://newspalette.tumblr.com/post/132713181269/daylight-saving-times-is-great-in-2007-congress](http://newspalette.tumblr.com/post/132713181269/daylight-saving-times-is-great-in-2007-congress)
