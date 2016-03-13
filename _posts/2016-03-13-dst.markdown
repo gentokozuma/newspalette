@@ -2,7 +2,7 @@
 title: Benefits of Daylight Saving Time
 layout: post
 ---
-<img src="{{ site.url }}/images/2015-11-07-image.png" alt="Drawing" style="width: 350px;"/>
+<img src="{{ site.url }}/images/2015-11-07-image.jpg" alt="Drawing" style="width: 350px;"/>
 
 Daylight saving times is great. In 2007, Congress added four more weeks of daylight saving times. (Three weeks in the spring, one week in fall.) When DST starts, robbery rates fell 7 percent for the whole day (27 percent during the extra hour of sunlight in the evening). This phenomenon can be explained by street crime trends. Street crime occurs most frequently during commute hours from 5 to 8 pm; criminals do not do much activity in the extra one hour of darkness in the morning.
 
